@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Pawni!<br>🎓 Electronics and Communication Engineering student<br>💻 Exploring Java, DSA, Cloud Computing & AI<br>🚀 Building projects, participating in technical challenges, and growing through hands-on learning
+👋 Hey, I'm Pawni!<br>🎓 Electronics and Communication Engineering Student<br>💻 Exploring Java, Cloud Computing & AI<br>🚀 Building projects, participating in technical challenges, and growing through hands-on learning
 
 
 ## 🌐 Socials:
