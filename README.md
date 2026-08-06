@@ -27,11 +27,11 @@
 
 ## 📊 GitHub Stats
 
-![Pawni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawnipunyankita&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawnipunyankita&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pawnipunyankita&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawnipunyankita&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawnipunyankita&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pawnipunyankita&theme=tokyonight)
 
 ---
 
